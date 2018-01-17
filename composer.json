@@ -1,7 +1,7 @@
 {
-    "name": "firebase/token-generator",
+    "name": "melvinmt/token-generator",
     "description": "A simple library to generate JWT tokens for authenticating to a Firebase.",
-    "homepage": "https://github.com/firebase/firebase-token-generator-php",
+    "homepage": "https://github.com/melvinmt/firebase-token-generator-php",
     "authors": [
         {
             "name": "Anant Narayanan",
@@ -15,7 +15,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/firebase/firebase-token-generator-php/issues"
+        "issues": "https://github.com/melvinmt/firebase-token-generator-php/issues"
     },
     "license": "MIT",
     "require": {
@@ -37,7 +37,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "2.x-dev"
+            "dev-master": "master"
         }
     }
 }
